@@ -2,8 +2,8 @@
 
 ## 💻 My Stats
 
-[![JustinASmith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JustinASmith)](https://github.com/JustinASmith)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinASmith&layout=compact)](https://github.com/JustinASmith)
+[![JustinASmith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JustinASmith)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinASmith&layout=compact)]()
 
 <details> 
  <summary>🤖 <b>My programming stats</b>: </summary>
