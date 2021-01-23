@@ -1,5 +1,21 @@
-### Hi there 👋
+### Hi 👋 I'm Justin!
 
+## 💻 Some stats
+
+<details open>
+ <summary> <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=JustinASmith&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JustinASmith&hide=css,java,html&theme=tokyonight">
+</p>
+
+</details>
+
+<details> 
+ <summary>🤖 <b>My programming stats</b>: </summary>
+<br>
+  
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -50,3 +66,4 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+<details> 
