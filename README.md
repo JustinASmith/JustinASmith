@@ -1,14 +1,9 @@
-### Hi 👋 I'm Justin!
+# Hi 👋 I'm Justin!
 
-<details open>
- <summary>🙌 <b>My Github Stats</b>: </summary>
-<br>
-<p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=JustinASmith&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JustinASmith&hide=css,java,html&theme=tokyonight">
-</p>
+## 💻 My Stats
 
-</details>
+[![JustinASmith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JustinASmith)](https://github.com/JustinASmith)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinASmith&layout=compact)](https://github.com/JustinASmith))
 
 <details> 
  <summary>🤖 <b>My programming stats</b>: </summary>
