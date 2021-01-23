@@ -3,7 +3,7 @@
 ## 💻 Some stats
 
 <details open>
- <summary> <b>My Github Stats</b>: </summary>
+ <summary>🙌 <b>My Github Stats</b>: </summary>
 <br>
 <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=JustinASmith&show_icons=true&theme=tokyonight&line_height=27">
