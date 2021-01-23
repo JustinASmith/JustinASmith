@@ -1,9 +1,9 @@
-# Hi 👋 I'm Justin!
+## Hi 👋 I'm Justin!
 
 ## 💻 My Stats
 
 [![JustinASmith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JustinASmith)](https://github.com/JustinASmith)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinASmith)](https://github.com/JustinASmith))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinASmith)](https://github.com/JustinASmith)
 
 <details> 
  <summary>🤖 <b>My programming stats</b>: </summary>
