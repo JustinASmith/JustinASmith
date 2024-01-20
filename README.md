@@ -1,3 +1,5 @@
 ## Hi 👋 I'm Justin!
 
-See my latest blogs - [justinsmith.sh](https://justinsmith.sh)!
+Learn more about me and what I am learning at on my website!
+
+### [justinsmith.sh](https://justinsmith.sh)
