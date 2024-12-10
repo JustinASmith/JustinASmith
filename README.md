@@ -1,5 +1,9 @@
-## Hi 👋 I'm Justin!
+### Hey! It's Justin 👋
 
-Learn more about me and what I am learning on my website!
+I'm a Senior Data Engineer at Camgian
 
-### [justinsmith.sh](https://justinsmith.sh)
+- 🔭 I’m currently working on streamlining data architectures to support near real-time analytics.
+- 🤝 I’m looking to connect and meet others with similar interests.
+- 💬 Ask me about software/data architecture, data ingestion, disc golf.
+- 😄 Pronouns: He/Him/His
+- 🌲 You can see all links at my [LittleLink](https://links.justinsmith.sh/)
