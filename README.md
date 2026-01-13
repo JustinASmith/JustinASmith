@@ -1,22 +1,21 @@
 # Hey, I'm Justin 👋
 
-Software Engineer at [Estuary](https://estuary.dev), building real-time data infrastructure. I'm passionate about open source, developer tooling, and making data pipelines more accessible.
+Software Engineer on the Integrations team at [Estuary](https://estuary.dev). I build and maintain open source data connectors that help teams move data in real-time.
 
 ## What I'm Working On
 
-At Estuary, I contribute to [Flow](https://github.com/estuary/flow) — a real-time data integration platform that unifies batch and streaming. My work spans:
+I work primarily on [estuary/connectors](https://github.com/estuary/connectors) — the open source connector ecosystem for Estuary Flow. My focus areas:
 
-- Building and maintaining data connectors
-- Improving developer experience and documentation
-- Performance optimization for large-scale data pipelines
+- Building source and destination connectors for databases, SaaS platforms, and cloud services
+- Improving connector reliability and performance at scale
+- Enhancing developer experience for connector development
 
 ## Open Source Contributions
 
-I believe in building in the open. Here are some of my recent contributions:
+I believe in building in the open. Here are some of my contributions:
 
-### Estuary Flow Ecosystem
-- **[estuary/flow](https://github.com/estuary/flow)** — Real-time data operations platform
-- **[estuary/connectors](https://github.com/estuary/connectors)** — Data source and destination connectors
+### Estuary Connectors
+- **[estuary/connectors](https://github.com/estuary/connectors)** — Source and destination connectors for real-time data integration
 
 ### Recent Pull Requests
 <!-- Check out my [merged PRs](https://github.com/pulls?q=is%3Apr+author%3AJustinASmith+is%3Amerged) across the open source ecosystem -->
