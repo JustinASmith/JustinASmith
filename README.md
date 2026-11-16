@@ -2,7 +2,7 @@
 
 **Forward Deployed Engineer** at **[Origin](https://prelude.so/)** — building and supporting the platform alongside customers.
 
-Previously a Senior Backend / Data Infrastructure Engineer at **[Estuary](https://estuary.dev/)**, focused on Python, distributed systems, APIs, and real-time data integration (CDC).
+Previously a Senior Backend Engineer at **[Estuary](https://estuary.dev/)**, focused on Python, distributed systems, APIs, and real-time data integration (CDC).
 
 Remote (Starkville, MS) • **[contact@justinsmith.sh](mailto:contact@justinsmith.sh)** • [LinkedIn](https://www.linkedin.com/in/justin-a-smith662) • [Resume](https://resume.justinsmith.sh)
 
